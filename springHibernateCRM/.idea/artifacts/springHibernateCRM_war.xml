@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springHibernateCRM:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springHibernateCRM-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springHibernateCRM:war exploded" />
+    </root>
+  </artifact>
+</component>
